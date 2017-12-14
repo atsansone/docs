@@ -21,7 +21,7 @@
      - all types
      - string or array of unique strings
      - Enumerates the possible JSON types of the field. Available types are 
-       "object", "array", "number", "boolean", "string", and "null".
+       "object", "array", "number", "bool", "string", and "null".
 
    * - allOf
      - all types
